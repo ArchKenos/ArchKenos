@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Bruno
-Software Engineering student focused on Data Engineering.
-I build ETL pipelines and analytical systems using real-world data.
+Software Engineering student.
 
 ## 🔧 What I'm working on 
 - Steam Data Pipeline — ETL pipeline with SteamSpy API, DuckDB and Parquet
@@ -9,9 +8,6 @@ I build ETL pipelines and analytical systems using real-world data.
 **Programming**: Python  
 **Data**: Pandas · DuckDB · PostgreSQL · SQL  
 **Versioning**: Git
-
-##  📚 Currently learning
-Data modeling · Pipeline orchestration  
 
 ##  🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/bruno-gamma/) · [Email](mailto:bruno_gama22@outlook.com)
