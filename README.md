@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bruno
 
 Software Engineering student at UNIFACS (Salvador, Brazil), graduating in December 2027.
-I have a generalist IT profile: hands-on technical support, process automation, data engineering and web development. I like understanding how different parts of a system, and of a company, connect so I can build solutions that make the whole workflow more efficient.
+Hands-on technical support, process automation, data engineering and web development. I like understanding how different parts of a system, and of a company, connect so I can build solutions that make the whole workflow more efficient.
 
 ## 💼 What I do
 
@@ -27,7 +27,7 @@ I have a generalist IT profile: hands-on technical support, process automation, 
 
 ## 🌎 Languages
 
-Portuguese (native) · English (intermediate, technical reading)
+Portuguese (native) · English (intermediate)
 
 ## 🤝 Connect
 
